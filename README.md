@@ -15,3 +15,5 @@
 
 ### Working of the Application : 
 * Working completely
+
+### Check GitHub Wiki for more details.
