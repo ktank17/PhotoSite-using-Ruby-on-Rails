@@ -3,6 +3,10 @@
 ## Name : Krishna Tank
 ## NetID: zy7886
 
+## YouTube Video Link: 
+* Part 1: https://youtu.be/E1okfNVTYc0 
+* Part 2: https://youtu.be/Ept84Q7FK34
+
 ### Purpose: 
 The aim of this project is to create a photo sharing Web Application and database for photo site using SQLite and Ruby on Rails. And 2nd part is to deploy it into AWS EC2. 
 
